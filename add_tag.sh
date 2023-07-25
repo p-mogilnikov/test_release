@@ -26,7 +26,7 @@ fi
 
 # Begin script in case all parameters are correct
 echo "$commit"
-echo "$tag"
+echo "$tag"dd
 
 git checkout release
 git fetch
