@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "test-release"
-version = "v0.1.1"
+version = "v1.0.0"
 description = ""
 authors = ["Pavel Mogilnikov <Pavel.Mogilnikov@informa.com>"]
 readme = "README.md"
